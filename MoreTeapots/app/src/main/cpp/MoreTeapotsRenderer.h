@@ -25,7 +25,7 @@
 // Include files
 //--------------------------------------------------------------------------------
 #include <jni.h>
-#include <errno.h>
+#include <cerrno>
 #include <random>
 #include <vector>
 
